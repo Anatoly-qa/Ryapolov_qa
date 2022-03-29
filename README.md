@@ -2,4 +2,4 @@
 
 ---
 
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1ASyLYNUke7x1thjXil4QFwIj9UQ4kyOWdbph_rNg9rc/edit#gid=0)# Ryapolov_qa
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1ASyLYNUke7x1thjXil4QFwIj9UQ4kyOWdbph_rNg9rc/edit#gid=0)
